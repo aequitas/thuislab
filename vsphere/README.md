@@ -19,5 +19,7 @@ Certificate: https://kb.vmware.com/selfservice/microsites/search.do?language=en_
 Hostname: https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1010821
 https://kubernetes.io/docs/getting-started-guides/vsphere/
 
-Provisioning:
+
+    brew install packer terraform
+    [root@hydra:~] esxcli system settings advanced set -o /Net/GuestIPHack -i 1
 
