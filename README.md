@@ -37,3 +37,8 @@ Todos:
 
 - IPv6 (only)
 
+Lessons learned/relearned:
+
+- Don't put off version control, otherwise the changes are to large to manage.
+- Git-crypt secret management only works well if you have strict discipline and structure. But still beats no encryption.
+- Not using your actual secrets during development saves you from pushing them to public Git.
