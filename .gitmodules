@@ -1,0 +1,6 @@
+[submodule "pxe/vendor/ipxe"]
+	path = pxe/vendor/ipxe
+	url = https://github.com/ipxe/ipxe.git
+[submodule "coreos/vendor/ipxe"]
+	path = coreos/vendor/ipxe
+	url = https://github.com/ipxe/ipxe.git
