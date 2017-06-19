@@ -30,8 +30,7 @@ Layout:
       - The Dude (?)
       - GitLab (?)
 
-
-Random references:
+References:
 
 http://www.davidc.net/sites/default/subnets/subnets.html
 
