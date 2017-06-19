@@ -1,36 +1,5 @@
 # configuration for common providers
 
-/*variable "hydra_host" {
-  default = "127.0.0.1"
-}*/
-
-
-/*variable "mysql_root_password" {
-  default = "changeme"
-}*/
-
-
-/*variable "admin_user" {
-  default = "admin"
-}
-
-variable "backup_password" {
-  default = "changeme"
-}*/
-
-variable "pdns_server_url" {
-  default = "http://172.17.0.3"
-}
-
-/*variable "pdns_api_key" {
-  default = "changeme"
-}
-
-variable "postgres_password" {
-  default = "geheim"
-}*/
-
-
 provider "mysql" {
   endpoint = "${var.hydra_host}:3306"
   username = "root"
