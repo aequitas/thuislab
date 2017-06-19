@@ -1,2 +1,3 @@
 secrets.tfvars filter=git-crypt diff=git-crypt
+terraform/env/prd.tfvars filter=git-crypt diff=git-crypt
 
