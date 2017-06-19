@@ -1,0 +1,4 @@
+_*.tf
+_*.tfvars
+_remote_setup.sh
+*.tfplan
